@@ -30,7 +30,7 @@ This project demonstrates the generation, analysis, and decoding of Dual-Tone Mu
 
 ---
 
-### Visual Outputs
+## Visual Outputs
 1. **Time-Domain Signal**:
    - Original signal, noise, and noisy signal.
 2. **Frequency Spectrum**:
